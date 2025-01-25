@@ -31,19 +31,3 @@ menuBtn.innerHTML = '<i class="fas fa-times"></i>'
 
 
 /** Awas Master Js Mau Lewat 😂 **/
-
-function exec() {
-document.getElementById('audio').play()
-openFullscreen()
-}
-function keDomainAbout() {
-handleButtonClick({ target: batten[0] })
-}
-
-function keDomainProgres() {
-handleButtonClick({ target: batten[0] })
-}
-
-function keDomainContacts() {
-handleButtonClick({ target: batten[0] })
-}
