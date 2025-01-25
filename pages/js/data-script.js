@@ -41,9 +41,9 @@ handleButtonClick({ target: batten[0] })
 }
 
 function keDomainProgres() {
-handleButtonClick({ target: batten[1] })
+handleButtonClick({ target: batten[0] })
 }
 
 function keDomainContacts() {
-handleButtonClick({ target: batten[2] })
+handleButtonClick({ target: batten[0] })
 }
